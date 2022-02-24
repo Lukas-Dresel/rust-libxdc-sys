@@ -1,3 +1,6 @@
 [submodule "capstone"]
 	path = capstone
 	url = git@github.com:capstone-engine/capstone.git
+[submodule "libxdc"]
+	path = libxdc
+	url = git@github.com:Lukas-Dresel/libxdc.git
